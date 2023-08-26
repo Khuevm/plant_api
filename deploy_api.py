@@ -51,8 +51,7 @@ def prediction():
         conf = int(top_conf[i]*10000)
         plantInfo = getWikiAPi(plantName)
 
-        result = Result(code, plantName, conf, plantInfo)
-        print(result)
+        result = Result(code, plantName, conf, plantInfo.image_link)
         result_array.append(result.__dict__)
     print(result_array)
     return result_array
