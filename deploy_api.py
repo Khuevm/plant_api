@@ -79,10 +79,7 @@ def getInfo(id):
         if name == i['latin']:
             plantInfo.setCareGuide(i)
             break
-    data = {
-        'data': plantInfo.__dict__
-    }
-    return data
+    return plantInfo.__dict__
 
 if __name__ == '__main__':
     # Load model
