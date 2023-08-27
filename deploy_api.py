@@ -53,8 +53,11 @@ def prediction():
 
         result = Result(code, plantName, conf, plantInfo.image_link)
         result_array.append(result.__dict__)
-    print(result_array)
-    return result_array
+    data = {
+    	'data':  result_array
+    }
+    print(data)
+    return data
 
 @app.route('/plant/search', methods=['POST'])
 def search():
