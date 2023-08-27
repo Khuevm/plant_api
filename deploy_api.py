@@ -65,10 +65,17 @@ def search():
     features = request.json
     keyword = features['keyword']
     
-    for name in species_name.values():
+    for id, name in species_name.items():
         if keyword in name and name not in result_array:
-            result_array.append(name)
-    return result_array
+            plantInfo = getWikiInfo(name)
+            print(plantInfo)
+            result = Result(id, name, 0, plantInfo.image_link)
+            result_array.append(result.__dict__)
+    data = {
+    	'data':  result_array
+    }
+    print(data)
+    return data
 
 @app.route('/plant/info/<string:id>', methods=['POST'])
 def getInfo(id):
