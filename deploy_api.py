@@ -51,7 +51,7 @@ def prediction():
         conf = int(top_conf[i]*10000)
         plantInfo = getWikiInfo(plantName)
 
-        result = Result(code, plantName, conf, plantInfo.image_link)
+        result = Result(int(code), plantName, conf, plantInfo.image_link)
         result_array.append(result.__dict__)
     data = {
     	'data':  result_array
@@ -68,7 +68,6 @@ def search():
     for id, name in species_name.items():
         if keyword in name and name not in result_array:
             plantInfo = getWikiInfo(name)
-            print(plantInfo)
             result = Result(id, name, 0, plantInfo.image_link)
             result_array.append(result.__dict__)
     data = {
