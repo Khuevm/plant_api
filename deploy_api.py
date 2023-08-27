@@ -23,7 +23,7 @@ info = json.load(info_file)
 app = Flask(__name__)
 
 
-def getWikiAPi(plantName):
+def getWikiInfo(plantName):
     search_results = wiki_api.search(plantName)
     plantInfo = wiki_api.getInfo(search_results[0])
 
@@ -49,7 +49,7 @@ def prediction():
         code = plant_code[index]
         plantName = species_name[code]
         conf = int(top_conf[i]*10000)
-        plantInfo = getWikiAPi(plantName)
+        plantInfo = getWikiInfo(plantName)
 
         result = Result(code, plantName, conf, plantInfo.image_link)
         result_array.append(result.__dict__)
@@ -66,13 +66,23 @@ def search():
     keyword = features['keyword']
     
     for name in species_name.values():
-    	if keyword in name:
-    		result_array.append(name)
-    for i in info:
-        if keyword in i['latin']:
-            print(i['latin'])
-            result_array.append(i['latin'])
+        if keyword in name and name not in result_array:
+            result_array.append(name)
     return result_array
+
+@app.route('/plant/info/<string:id>', methods=['POST'])
+def getInfo(id):
+    name = species_name[id]
+    plantInfo: PlantInfo = getWikiInfo(name)
+    plantInfo.setTitle(name)
+    for i in info:
+        if name == i['latin']:
+            plantInfo.setCareGuide(i)
+            break
+    data = {
+        'data': plantInfo.__dict__
+    }
+    return data
 
 if __name__ == '__main__':
     # Load model

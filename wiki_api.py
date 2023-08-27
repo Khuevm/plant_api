@@ -3,7 +3,6 @@ import requests
 
 def search(keyword: str):
     # Định nghĩa đường dẫn API endpoint
-    print(keyword)
     url = "https://en.wikipedia.org/w/api.php"
 
     # Xác định các tham số cho yêu cầu API
@@ -42,13 +41,12 @@ def getInfo(title: str):
 
     # Trích xuất thông tin trang từ phản hồi API
     page_id = list(data["query"]["pages"].keys())[0]
-    page_title = data["query"]["pages"][page_id]["title"]
     page_extract = data["query"]["pages"][page_id]["extract"]
     image_info = data['query']['pages'][page_id].get('thumbnail')
 
     # Extract the image information
     if image_info:
-        plantInfo = PlantInfo(page_title, page_extract, image_info['source'])
+        plantInfo = PlantInfo(page_extract, image_info['source'])
     else:
-        plantInfo = PlantInfo(page_title, page_extract, "")
+        plantInfo = PlantInfo(page_extract, "")
     return plantInfo
