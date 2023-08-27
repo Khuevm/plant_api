@@ -68,7 +68,7 @@ def search():
     for id, name in species_name.items():
         if keyword in name and name not in result_array:
             plantInfo = getWikiInfo(name)
-            result = Result(id, name, 0, plantInfo.image_link)
+            result = Result(int(id), name, 0, plantInfo.image_link)
             result_array.append(result.__dict__)
     data = {
     	'data':  result_array
