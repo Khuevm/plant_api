@@ -43,16 +43,19 @@ def prediction():
     prediction = model(transformed_image)
     prob = F.softmax(prediction, dim=1)[0]
     top_conf, top_index = prob.sort(descending = True)
-    
-    for i in range(0,3):
+    i = 0
+
+    while len(result_array) < 3:
         index = int(top_index[i])
+        i += 1
         code = plant_code[index]
         plantName = species_name[code]
         conf = int(top_conf[i]*10000)
         plantInfo = getWikiInfo(plantName)
 
-        result = Result(int(code), plantName, conf, plantInfo.image_link)
-        result_array.append(result.__dict__)
+        if plantInfo.image_link != "":
+            result = Result(int(code), plantName, conf, plantInfo.image_link)
+            result_array.append(result.__dict__)
     data = {
     	'data':  result_array
     }
@@ -68,8 +71,9 @@ def search():
     for id, name in species_name.items():
         if keyword in name and name not in result_array:
             plantInfo = getWikiInfo(name)
-            result = Result(int(id), name, 0, plantInfo.image_link)
-            result_array.append(result.__dict__)
+            if plantInfo.image_link != "":
+                result = Result(int(id), name, 0, plantInfo.image_link)
+                result_array.append(result.__dict__)
     data = {
     	'data':  result_array
     }
