@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "latin": "Aeschynanthus lobianus",
+    "latin": "Aeschynanthus",
     "family": "Gesneriaceae",
     "common": [
       "Lipstick"
@@ -68,7 +68,7 @@
   },
   {
     "id": 2,
-    "latin": "Aechmea fatsiata",
+    "latin": "Aechmea",
     "family": "Bromeliaceae",
     "common": [
       "Silver vase"
@@ -97,7 +97,7 @@
   },
   {
     "id": 3,
-    "latin": "Agave angustilolia Marginata",
+    "latin": "Agave angustilolia",
     "family": "Amaryllidaceae",
     "common": [
       "Variegated Carabbean Agave",
@@ -391,7 +391,7 @@
   },
   {
     "id": 25,
-    "latin": "Alocasia nebula Imperialis",
+    "latin": "Alocasia nebula",
     "family": "Araceae",
     "common": [
       "Elephant ear"
@@ -426,7 +426,7 @@
   },
   {
     "id": 28,
-    "latin": "Allamanda nerifolia",
+    "latin": "Allamanda schottii",
     "family": "Apocynaceae",
     "common": [
       "Golden Trumpet"
@@ -452,150 +452,6 @@
     ],
     "diseases": "N/A",
     "use": "Flower"
-  },
-  {
-    "id": 29,
-    "latin": "Aglaonema",
-    "family": "Araceae",
-    "common": [
-      "Chinese Evergreen",
-      "BJ Freeman"
-    ],
-    "category": "Aglaonema",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": [
-      "Phytophtora",
-      "Crown rot"
-    ],
-    "use": [
-      "Potted plant",
-      "Primary",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 30,
-    "latin": "Aglaonema",
-    "family": "Araceae",
-    "common": [
-      "Chinese Evergreen",
-      "Marguerita"
-    ],
-    "category": "Aglaonema",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": [
-      "Phytophtora",
-      "Crown rot"
-    ],
-    "use": [
-      "Potted plant",
-      "Primary",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 31,
-    "latin": "Aglaonema",
-    "family": "Araceae",
-    "common": [
-      "Chinese Evergreen",
-      "Emerald Star"
-    ],
-    "category": "Aglaonema",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": [
-      "Phytophtora",
-      "Crown rot"
-    ],
-    "use": [
-      "Potted plant",
-      "Secondary",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 32,
-    "latin": "Aglaonema",
-    "family": "Araceae",
-    "common": [
-      "Chinese Evergreen",
-      "Silver Bay"
-    ],
-    "category": "Aglaonema",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": [
-      "Phytophtora",
-      "Crown rot"
-    ],
-    "use": [
-      "Potted plant",
-      "Secondary",
-      "Tertiary"
-    ]
   },
   {
     "id": 33,
@@ -724,7 +580,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 1408869,
     "latin": "Cereus peruvianus",
     "family": "Cactaceae",
     "common": [
@@ -855,7 +711,7 @@
   },
   {
     "id": 41,
-    "latin": "Calathea pictura Argentea",
+    "latin": "Calathea pictura",
     "family": "Marantaceae",
     "common": [
       "Silver Calathea"
@@ -921,7 +777,7 @@
   },
   {
     "id": 43,
-    "latin": " Chamaedorea seifrizii",
+    "latin": "Chamaedorea seifrizii",
     "family": "Arecaceae",
     "common": [
       "Bamboo palm",
@@ -952,8 +808,8 @@
     ]
   },
   {
-    "id": 44,
-    "latin": " Alocasia X amazonica",
+    "id": 1420795,
+    "latin": "Alocasia sanderiana",
     "family": "Araceae",
     "common": [
       "Elephant ear"
@@ -987,8 +843,8 @@
     ]
   },
   {
-    "id": 45,
-    "latin": "Anthurium X",
+    "id": 1402433,
+    "latin": "Anthurium",
     "family": "Araceae",
     "common": [
       "Tailflower",
@@ -1024,7 +880,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 1402423,
     "latin": "Anthurium hookeri",
     "family": "Araceae",
     "common": [
@@ -1092,70 +948,8 @@
     ]
   },
   {
-    "id": 48,
-    "latin": "Cereus peruvianus Monstrosus",
-    "family": "Cactaceae",
-    "common": [
-      "Monster cactus"
-    ],
-    "category": "Cactus & Succulent",
-    "origin": "Brazil",
-    "climate": "Arid Tropical",
-    "tempmax": {
-      "celsius": 35,
-      "fahrenheit": 95
-    },
-    "tempmin": {
-      "celsius": 5,
-      "fahrenheit": 41
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Water only when dry or when soil is half dry.",
-    "insects": [
-      "Scale",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 49,
-    "latin": "Chamaedorea erumpens",
-    "family": "Arecaceae",
-    "common": [
-      "Bamboo palm"
-    ],
-    "category": "Palm",
-    "origin": "Honduras",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 50,
-    "latin": "Calathea stromata",
+    "latin": "Calanthe striata",
     "family": "Marantaceae",
     "common": [
       "Stromante"
@@ -1183,37 +977,6 @@
     "use": [
       "Table top",
       "Ground cover"
-    ]
-  },
-  {
-    "id": 51,
-    "latin": "Codiaeum",
-    "family": "Euphorbiaceae",
-    "common": [
-      "Croton"
-    ],
-    "category": "Foliage plant",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Secondary",
-      "Tertiary"
     ]
   },
   {
@@ -1250,7 +1013,7 @@
   },
   {
     "id": 53,
-    "latin": "Alocasias X Amazonica var",
+    "latin": "Alocasias",
     "family": "Araceae",
     "common": [
       "Elephant ear"
@@ -1312,8 +1075,8 @@
     ]
   },
   {
-    "id": 55,
-    "latin": "Alocasias X Amazonica",
+    "id": 1408045,
+    "latin": "Alocasia macrorrhizos",
     "family": "Araceae",
     "common": [
       "Elephant ear"
@@ -1347,38 +1110,7 @@
     ]
   },
   {
-    "id": 56,
-    "latin": "Cissus rhombifolia",
-    "family": "Vitaceae",
-    "common": [
-      "Grape Ivy"
-    ],
-    "category": "Hanging",
-    "origin": "Central America & South America",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": "Mealy bug",
-    "diseases": [
-      "Downy mildiou",
-      "Powdery"
-    ],
-    "use": [
-      "Hanging",
-      "Ground cover"
-    ]
-  },
-  {
-    "id": 57,
+    "id": 1465026,
     "latin": "Anthurium schlechtendalii",
     "family": "Araceae",
     "common": [
@@ -1441,41 +1173,8 @@
     ]
   },
   {
-    "id": 59,
-    "latin": "Aspidistra elatior Minor",
-    "family": "Liliaceae",
-    "common": [
-      "Cast iron plant",
-      "Aspidistra Milky Way"
-    ],
-    "category": "Foliage plant",
-    "origin": "Japan",
-    "climate": "Subtropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 8,
-      "fahrenheit": 46.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Can be dry between watering.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Ground cover",
-      "Potted plant"
-    ]
-  },
-  {
     "id": 60,
-    "latin": "Calathea ornata Rosea lineata",
+    "latin": "Calathea",
     "family": "Marantaceae",
     "common": [
       "Stiped calathea"
@@ -1529,42 +1228,6 @@
     "watering": "Keep moist between watering. Must not be dry between watering",
     "insects": "Mealy bug",
     "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 62,
-    "latin": "Anthurium hookeri",
-    "family": "Araceae",
-    "common": [
-      "Bird nest Anthurium",
-      "Cabbage Anthurium"
-    ],
-    "category": "Anthurium",
-    "origin": "Guyana",
-    "climate": "Tropical humid",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Can be dry between watering.",
-    "insects": [
-      "Mealy bug",
-      "Snail",
-      "Aphid"
-    ],
-    "diseases": [
-      "Erwinia",
-      "Crown rot"
-    ],
     "use": [
       "Potted plant",
       "Primary"
@@ -1665,41 +1328,6 @@
     ]
   },
   {
-    "id": 66,
-    "latin": "Dieffenbachia",
-    "family": "Araceae",
-    "common": [
-      "Dumcane",
-      "Star Bright"
-    ],
-    "category": "Dieffenbachia",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": [
-      "Fusarium",
-      "Erwinia"
-    ],
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 67,
     "latin": "Dracaena marginata",
     "family": "Liliaceae",
@@ -1734,7 +1362,7 @@
   },
   {
     "id": 68,
-    "latin": "Dracaena fragrans Massangeana",
+    "latin": "Dracaena fragrans",
     "family": "Liliaceae",
     "common": [
       "Cornstalk plant"
@@ -1764,39 +1392,8 @@
     ]
   },
   {
-    "id": 69,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Janet Craig"
-    ],
-    "category": "Dracaena",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 70,
-    "latin": "Cryptanthus Rose Eliane",
+    "latin": "Cryptanthus",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -1817,35 +1414,6 @@
     "diseases": "N/A",
     "use": [
       "Table top",
-      "Primary"
-    ]
-  },
-  {
-    "id": 71,
-    "latin": "Dracaena reflexa",
-    "family": "Liliaceae",
-    "common": [
-      "Yellow Malaysian Dracaena",
-      "Song of India"
-    ],
-    "category": "Dracaena",
-    "origin": " India",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
       "Primary"
     ]
   },
@@ -1885,35 +1453,6 @@
     ]
   },
   {
-    "id": 73,
-    "latin": "Dracaena reflexa",
-    "family": "Liliaceae",
-    "common": [
-      "Malaysian Dracaena",
-      "Song of Jamaica"
-    ],
-    "category": "Dracaena",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 74,
     "latin": "Cycas revoluta",
     "family": "Cycadaceae",
@@ -1946,34 +1485,6 @@
     ]
   },
   {
-    "id": 75,
-    "latin": "Crassula argentea",
-    "family": "Crasssulaceae",
-    "common": [
-      "Jade Plant"
-    ],
-    "category": "Cactus & Succulent",
-    "origin": "South Africa",
-    "climate": "Subtropical arid",
-    "tempmax": {
-      "celsius": 35,
-      "fahrenheit": 95
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 55
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Water only when the soil is dry. Must be dry between watering",
-    "insects": "Mealy bug",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
     "id": 76,
     "latin": "Ctenanthe lubbersiana",
     "family": "Marantaceae",
@@ -1997,66 +1508,6 @@
     "insects": [
       "Spider mite",
       "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 77,
-    "latin": "Dracaena reflexa",
-    "family": "Liliaceae",
-    "common": [
-      "Malaysian Dracaena"
-    ],
-    "category": "Dracaena",
-    "origin": "Madagascar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 78,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Striped Dracaena",
-      "Gold Star"
-    ],
-    "category": "Dracaena",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
     ],
     "diseases": "N/A",
     "use": [
@@ -2096,41 +1547,8 @@
     ]
   },
   {
-    "id": 80,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Dwarf bouquet",
-      "Calypso Queen",
-      "Janet Craig Compacta"
-    ],
-    "category": "Dracaena",
-    "origin": "Africa",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 81,
-    "latin": "Davallia trichomannoides",
+    "latin": "Davallia trichomanoides",
     "family": "Davalliaceae",
     "common": [
       "Rabbits foot",
@@ -2157,169 +1575,6 @@
     "diseases": "N/A",
     "use": [
       "Hanging",
-      "Potted plant"
-    ]
-  },
-  {
-    "id": 82,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Lisa Dracaena",
-      "Lisa"
-    ],
-    "category": "Dracaena",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 83,
-    "latin": "Dracaena marginata",
-    "family": "Liliaceae",
-    "common": [
-      "Madagascar dragon tree"
-    ],
-    "category": "Dracaena",
-    "origin": "Madagascar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale",
-      "Spider mite"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 84,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Striped Dracaena",
-      "Warneckei"
-    ],
-    "category": "Dracaena",
-    "origin": "Africa",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 85,
-    "latin": "Dracaena deremensis",
-    "family": "Liliaceae",
-    "common": [
-      "Striped Dracaena",
-      "Lemon Lime"
-    ],
-    "category": "Dracaena",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 86,
-    "latin": "Dieffenbachia maculata",
-    "family": "Araceae",
-    "common": [
-      "Dumcane",
-      "Camille"
-    ],
-    "category": "Dieffenbachia",
-    "origin": "Hybrid",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": [
-      "Fusarium",
-      "Erwinia"
-    ],
-    "use": [
-      "Table top",
       "Potted plant"
     ]
   },
@@ -2612,35 +1867,6 @@
     ]
   },
   {
-    "id": 96,
-    "latin": "Guzmania",
-    "family": "Bromeliaceae",
-    "common": [
-      "Guzmania",
-      "Guzmania Empire"
-    ],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Change water in the vase regularly.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
     "id": 97,
     "latin": "Ficus benjamina",
     "family": "Moraceae",
@@ -2706,7 +1932,7 @@
   },
   {
     "id": 99,
-    "latin": "Euphorbia ammack",
+    "latin": "Euphorbia ammak",
     "family": "Euphorbiaceae",
     "common": [
       "Variegated Euphorbia"
@@ -2769,67 +1995,6 @@
     ]
   },
   {
-    "id": 101,
-    "latin": "Guzmania",
-    "family": "Bromeliaceae",
-    "common": [
-      "Guzmania",
-      "Claret"
-    ],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Change water in the vase regularly.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 102,
-    "latin": "Ficus elastica",
-    "family": "Moraceae",
-    "common": [
-      "Rubber plant",
-      "Robusta"
-    ],
-    "category": "Ficus",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 103,
     "latin": "Hedera canariensis",
     "family": "Araliaceae",
@@ -2860,36 +2025,6 @@
     "use": [
       "Hanging",
       "Ground cover"
-    ]
-  },
-  {
-    "id": 104,
-    "latin": "Epipremnum aureum",
-    "family": "Araceae",
-    "common": [
-      "Golden Pothos"
-    ],
-    "category": "Hanging",
-    "origin": "South Pacific",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": [
-      "Pythium"
-    ],
-    "use": [
-      "Hanging",
-      "Tertiary"
     ]
   },
   {
@@ -2953,225 +2088,8 @@
     ]
   },
   {
-    "id": 107,
-    "latin": "Ficus benjamina",
-    "family": "Moraceae",
-    "common": [
-      "Weeping fig",
-      "Monique"
-    ],
-    "category": "Ficus",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Spider mite",
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 108,
-    "latin": "Guzmania",
-    "family": "Bromeliaceae",
-    "common": [
-      "Guzmania",
-      "Mariposa"
-    ],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Change water in the vase regularly.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 109,
-    "latin": "Ficus maclellandii Alii",
-    "family": "Moraceae",
-    "common": [
-      "Willow Ficus"
-    ],
-    "category": "Ficus",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Spider mite",
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 110,
-    "latin": "Guzmania",
-    "family": "Bromeliaceae",
-    "common": [
-      "Guzmania",
-      "Marjan"
-    ],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Change water in the vase regularly.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 111,
-    "latin": "Ficus benjamina",
-    "family": "Moraceae",
-    "common": [
-      "Weeping fig",
-      "Midnight"
-    ],
-    "category": "Ficus",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Spider mite",
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 112,
-    "latin": "Guzmania",
-    "family": "Bromeliaceae",
-    "common": [
-      "Guzmania",
-      "Rana"
-    ],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Change water in the vase regularly.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 113,
-    "latin": "Ficus elastica",
-    "family": "Moraceae",
-    "common": [
-      "Rubber plant",
-      "Burgandy"
-    ],
-    "category": "Ficus",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Can dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Scale"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 114,
-    "latin": "Euphorbia drupifera",
+    "latin": "Euphorbia",
     "family": "Euphorbiaceae",
     "common": [],
     "category": "Cactus & Succulent",
@@ -3229,7 +2147,7 @@
   },
   {
     "id": 116,
-    "latin": "Maranta leuconeura erythroneura",
+    "latin": "Maranta leuconeura",
     "family": "Marantaceae",
     "common": [
       "Herringbone",
@@ -3254,38 +2172,6 @@
     "use": [
       "Hanging",
       "Table top"
-    ]
-  },
-  {
-    "id": 117,
-    "latin": "Hedera helix",
-    "family": "Araliaceae",
-    "common": [
-      "English ivy",
-      "Hermania"
-    ],
-    "category": "Hanging",
-    "origin": "Cultivar",
-    "climate": "Subtropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 5,
-      "fahrenheit": 41
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Hanging",
-      "Ground cover"
     ]
   },
   {
@@ -3319,7 +2205,7 @@
   },
   {
     "id": 119,
-    "latin": "Mandevilla X",
+    "latin": "Mandevilla",
     "family": "Apocynaceae",
     "common": [],
     "category": "Flower",
@@ -3348,7 +2234,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 1402921,
     "latin": "Peperomia obtusifolia",
     "family": "Piperaceae",
     "common": [
@@ -3439,7 +2325,7 @@
   },
   {
     "id": 123,
-    "latin": "Hedera helix variegata",
+    "latin": "Hedera colchica",
     "family": "Araliaceae",
     "common": [
       "English ivy",
@@ -3497,40 +2383,8 @@
     ]
   },
   {
-    "id": 125,
-    "latin": "Hedera helix",
-    "family": "Araliaceae",
-    "common": [
-      "English ivy",
-      "Garland"
-    ],
-    "category": "Hanging",
-    "origin": "Cultivar",
-    "climate": "Subtropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 5,
-      "fahrenheit": 41
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Hanging",
-      "Ground cover"
-    ]
-  },
-  {
     "id": 126,
-    "latin": "Hoya carnosa Exotica",
+    "latin": "Hoya carnosa",
     "family": "Asclepiadaceae",
     "common": [
       "Wax plant"
@@ -3682,7 +2536,7 @@
   },
   {
     "id": 131,
-    "latin": "Neoregelia Flandria",
+    "latin": "Neoregelia",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -3707,8 +2561,8 @@
     ]
   },
   {
-    "id": 132,
-    "latin": "Liriope muscari Variegata",
+    "id": 1419334,
+    "latin": "Liriope muscari",
     "family": "Liliaceae",
     "common": [
       "Variegated lily turf"
@@ -3766,37 +2620,8 @@
     ]
   },
   {
-    "id": 134,
-    "latin": "Maranta leuconeura kerchoveana",
-    "family": "Marantaceae",
-    "common": [
-      "Green prayer plant",
-      "Herringbone"
-    ],
-    "category": "Hanging",
-    "origin": "Brazil",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "N/A",
-    "use": [
-      "Hanging",
-      "Table top"
-    ]
-  },
-  {
     "id": 135,
-    "latin": "Neoregelia Victoria Pink",
+    "latin": "Neoregelia johannis",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -3853,37 +2678,8 @@
     ]
   },
   {
-    "id": 137,
-    "latin": "Philodendron",
-    "family": "Araceae",
-    "common": [
-      "Lime philodendron",
-      "Moonlight"
-    ],
-    "category": "Philodendron",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "Erwinia",
-    "use": [
-      "Table top",
-      "Secondary"
-    ]
-  },
-  {
     "id": 138,
-    "latin": "Phalaenopsis X",
+    "latin": "Phalaenopsis",
     "family": "Orchidaceae",
     "common": [],
     "category": "Flower",
@@ -3939,37 +2735,6 @@
     "use": [
       "Potted plant",
       "Primary"
-    ]
-  },
-  {
-    "id": 140,
-    "latin": "Hedera helix",
-    "family": "Araliaceae",
-    "common": [
-      "English ivy"
-    ],
-    "category": "Topiairy",
-    "origin": "Cultivar",
-    "climate": "Subtropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 5,
-      "fahrenheit": 41
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Hanging",
-      "Ground cover"
     ]
   },
   {
@@ -4065,7 +2830,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 1400478,
     "latin": "Nephrolepis exaltata var",
     "family": "Nephrolepidaceae",
     "common": [
@@ -4126,34 +2891,6 @@
     ]
   },
   {
-    "id": 146,
-    "latin": "Philodendron",
-    "family": "Araceae",
-    "common": [
-      "Emerald Prince"
-    ],
-    "category": "Philodendron",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "Erwinia",
-    "use": [
-      "Table top",
-      "Secondary"
-    ]
-  },
-  {
     "id": 147,
     "latin": "Homalomena",
     "family": "Araceae",
@@ -4182,7 +2919,7 @@
     ]
   },
   {
-    "id": 148,
+    "id": 1643341,
     "latin": "Peperomia clusiifolia",
     "family": "Piperaceae",
     "common": [
@@ -4241,7 +2978,7 @@
   },
   {
     "id": 150,
-    "latin": "Neoregelia carolinae var.",
+    "latin": "Neoregelia carolinae",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -4295,7 +3032,7 @@
   },
   {
     "id": 152,
-    "latin": "Pteris cretica Parkeri",
+    "latin": "Pteris parkeri",
     "family": "Pteridaceae",
     "common": [
       "Cretan brake"
@@ -4444,7 +3181,7 @@
   },
   {
     "id": 157,
-    "latin": "Pteris cretica Albo lineata",
+    "latin": "Pteris cretica",
     "family": "Pteridaceae",
     "common": [
       "Silver Ribbon Fern"
@@ -4500,7 +3237,7 @@
   },
   {
     "id": 159,
-    "latin": "Philodendron Xanadu",
+    "latin": "Philodendron xanadu",
     "family": "Araceae",
     "common": [],
     "category": "Philodendron",
@@ -4526,7 +3263,7 @@
   },
   {
     "id": 160,
-    "latin": "Polyscias pinnatta",
+    "latin": "Polyscias",
     "family": "Araliaceae",
     "common": [
       "Balfour aralia",
@@ -4556,60 +3293,6 @@
     "use": [
       "Potted plant",
       "Primary"
-    ]
-  },
-  {
-    "id": 161,
-    "latin": "Philodendron Tatei Congo",
-    "family": "Araceae",
-    "common": [],
-    "category": "Philodendron",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "Erwinia",
-    "use": [
-      "Table top",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 162,
-    "latin": "Sansevieria trifasciata Laurentii",
-    "family": "Liliaceae",
-    "common": [
-      "Snake plant"
-    ],
-    "category": "Sansevieria",
-    "origin": "South Africa",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 35,
-      "fahrenheit": 95
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Can be dry between watering.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Tertiary"
     ]
   },
   {
@@ -4673,35 +3356,6 @@
     ]
   },
   {
-    "id": 165,
-    "latin": "Sansevieria trifasciata Hahnii",
-    "family": "Liliaceae",
-    "common": [
-      "Birdnest sansevieria",
-      "Snake plant"
-    ],
-    "category": "Sansevieria",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 35,
-      "fahrenheit": 95
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Can be dry between watering.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
     "id": 166,
     "latin": "Sansevieria trifasciata",
     "family": "Liliaceae",
@@ -4723,38 +3377,6 @@
     "toleratedlight": "Diffused",
     "watering": "Water when soil is half dry. Can be dry between watering.",
     "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 167,
-    "latin": "Polyscias crispata",
-    "family": "Araliaceae",
-    "common": [
-      "Chicken gizard aralia"
-    ],
-    "category": "Aralia",
-    "origin": "Malaysia",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
     "diseases": "N/A",
     "use": [
       "Potted plant",
@@ -4793,72 +3415,6 @@
     ]
   },
   {
-    "id": 169,
-    "latin": "Polyscias pinnata Marginata",
-    "family": "Araliaceae",
-    "common": [
-      "Variegated Balfour aralia",
-      "Aralia Balfouriana"
-    ],
-    "category": "Aralia",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 170,
-    "latin": "Polyscias fruticosa Elegans",
-    "family": "Araliaceae",
-    "common": [
-      "Ming Aralia",
-      "Parsley panax"
-    ],
-    "category": "Aralia",
-    "origin": "Malaysia",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
     "id": 171,
     "latin": "Philodendron selloum",
     "family": "Araceae",
@@ -4888,7 +3444,7 @@
   },
   {
     "id": 172,
-    "latin": "Pteris ensiformis Evergemiensis",
+    "latin": "Pteris ensiformis",
     "family": "Pteridaceae",
     "common": [
       "Silver Lace Fern"
@@ -4943,70 +3499,6 @@
     ]
   },
   {
-    "id": 174,
-    "latin": "Polyscias fruticosa",
-    "family": "Araliaceae",
-    "common": [
-      "Ming Aralia",
-      "Parsley panax"
-    ],
-    "category": "Aralia",
-    "origin": "Malaysia",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 175,
-    "latin": "Philodendron scandens oxycardium",
-    "family": "Araceae",
-    "common": [
-      "Parlor ivy",
-      "Sweetheart plant",
-      "Heartleaf philodendron",
-      "Cordatum vine"
-    ],
-    "category": "Philodendron",
-    "origin": "Central America",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 18,
-      "fahrenheit": 64.4
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": "Mealy bug",
-    "diseases": "Erwinia",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
     "id": 176,
     "latin": "Veitchia merrillii",
     "family": "Arecaceae",
@@ -5041,7 +3533,7 @@
   },
   {
     "id": 177,
-    "latin": "Spathiphyllum Lynise",
+    "latin": "Spathiphyllum",
     "family": "Araceae",
     "common": [
       "Peace lily"
@@ -5068,37 +3560,6 @@
     "use": [
       "Potted plant",
       "Secondary"
-    ]
-  },
-  {
-    "id": 178,
-    "latin": "Spathiphyllum Ceres",
-    "family": "Araceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Table top",
-      "Tertiary"
     ]
   },
   {
@@ -5129,7 +3590,7 @@
   },
   {
     "id": 180,
-    "latin": "Trichilia dregei",
+    "latin": "Trichilia dregeana",
     "family": "Miliaceae",
     "common": [
       "Cape mahogany",
@@ -5158,33 +3619,7 @@
   },
   {
     "id": 181,
-    "latin": "Vriesea Ginger",
-    "family": "Bromeliaceae",
-    "common": [],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Change water regularly in the vase. Water when soil is half dry.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 182,
-    "latin": "Vriesea Charlotte",
+    "latin": "Vriesea",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -5302,34 +3737,8 @@
     ]
   },
   {
-    "id": 186,
-    "latin": "Vriesea Christiane",
-    "family": "Bromeliaceae",
-    "common": [],
-    "category": "Bromeliad",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Change water regularly in the vase. Water when soil is half dry.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
     "id": 187,
-    "latin": "Tillandsia Creation",
+    "latin": "Tillandsia",
     "family": "Bromeliaceae",
     "common": [],
     "category": "Bromeliad",
@@ -5417,69 +3826,7 @@
     ]
   },
   {
-    "id": 190,
-    "latin": "Spathiphyllum Sensation",
-    "family": "Araceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Potted plant",
-      "Primary"
-    ]
-  },
-  {
-    "id": 191,
-    "latin": "Spathiphyllum Starlight",
-    "family": "Liliaceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 192,
+    "id": 1418547,
     "latin": "Sedum morganianum",
     "family": "Crasssulaceae",
     "common": [
@@ -5501,74 +3848,6 @@
     "watering": "Water only when the soil is dry. Must be dry between watering",
     "insects": "Mealy bug",
     "diseases": "N/A",
-    "use": [
-      "Hanging",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 193,
-    "latin": "Spathiphyllum Domino",
-    "family": "Araceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 194,
-    "latin": "Syngonium podophyllum",
-    "family": "Araceae",
-    "common": [
-      "African evergreen",
-      "Arrowhead vine",
-      "Goosefoot plant",
-      "Pink Allusion"
-    ],
-    "category": "Hanging",
-    "origin": "Cultivar",
-    "climate": "Tropical humid",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Mealy bug"
-    ],
-    "diseases": [
-      "Crown rot",
-      "Erwinia"
-    ],
     "use": [
       "Hanging",
       "Tertiary"
@@ -5633,8 +3912,8 @@
     ]
   },
   {
-    "id": 197,
-    "latin": "Schefflera arboricola Trinette",
+    "id": 1408961,
+    "latin": "Schefflera arboricola",
     "family": "Araliaceae",
     "common": [
       "Yellow Hawaiian elf",
@@ -5666,8 +3945,8 @@
     ]
   },
   {
-    "id": 198,
-    "latin": "Schefflera actinophylla Amate",
+    "id": 1362954,
+    "latin": "Schefflera actinophylla",
     "family": "Araliaceae",
     "common": [
       "Umbella plant"
@@ -5698,98 +3977,7 @@
     ]
   },
   {
-    "id": 199,
-    "latin": "Schefflera actinophylla Renegade",
-    "family": "Araliaceae",
-    "common": [
-      "Umbella plant"
-    ],
-    "category": "Schefflera",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 200,
-    "latin": "Sansevieria trifasciata var",
-    "family": "Liliaceae",
-    "common": [
-      "Snake plant"
-    ],
-    "category": "Sansevieria",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 35,
-      "fahrenheit": 95
-    },
-    "tempmin": {
-      "celsius": 10,
-      "fahrenheit": 50
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Water when soil is half dry. Can be dry between watering.",
-    "insects": "N/A",
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 201,
-    "latin": "Spathiphyllum Supreme",
-    "family": "Liliaceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 202,
+    "id": 1408961,
     "latin": "Schefflera arboricola",
     "family": "Araliaceae",
     "common": [
@@ -5798,103 +3986,6 @@
     ],
     "category": "Schefflera",
     "origin": "Taiwan",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 30,
-      "fahrenheit": 20
-    },
-    "tempmin": {
-      "celsius": 12,
-      "fahrenheit": 53.6
-    },
-    "ideallight": "6 or more hours of direct sunlight per day.",
-    "toleratedlight": "Direct sunlight.",
-    "watering": "Keep moist between watering. Water when soil is half dry.",
-    "insects": [
-      "Spider mite",
-      "Aphid",
-      "Mealy bug"
-    ],
-    "diseases": "N/A",
-    "use": [
-      "Potted plant",
-      "Secondary"
-    ]
-  },
-  {
-    "id": 203,
-    "latin": "Spathiphyllum",
-    "family": "Araceae",
-    "common": [
-      "Peace lily",
-      "Emerald Swirl"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 204,
-    "latin": "Spathiphyllum Starlight",
-    "family": "Araceae",
-    "common": [
-      "Peace lily"
-    ],
-    "category": "Spathiphyllum",
-    "origin": "Cultivar",
-    "climate": "Tropical",
-    "tempmax": {
-      "celsius": 28,
-      "fahrenheit": 82.4
-    },
-    "tempmin": {
-      "celsius": 15,
-      "fahrenheit": 59
-    },
-    "ideallight": "Bright light",
-    "toleratedlight": "Diffused",
-    "watering": "Keep moist between watering. Must not be dry between watering",
-    "insects": [
-      "Mealy bug",
-      "Thrips"
-    ],
-    "diseases": "Phytophtora",
-    "use": [
-      "Table top",
-      "Tertiary"
-    ]
-  },
-  {
-    "id": 205,
-    "latin": "Schefflera arboricola",
-    "family": "Araliaceae",
-    "common": [
-      "Hawaiian elf",
-      "Parasol plant",
-      "Gold Cappela"
-    ],
-    "category": "Schefflera",
-    "origin": "Cultivar",
     "climate": "Tropical",
     "tempmax": {
       "celsius": 30,
@@ -5950,8 +4041,8 @@
     ]
   },
   {
-    "id": 207,
-    "latin": "Zamioculcas zamifolia",
+    "id": 1385937,
+    "latin": "Zamioculcas zamiifolia",
     "family": "Araceae",
     "common": [
       "Zz plant"

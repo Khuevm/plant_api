@@ -43,7 +43,8 @@ def getInfo(title: str):
     page_id = list(data["query"]["pages"].keys())[0]
     page_extract = data["query"]["pages"][page_id]["extract"]
     image_info = data['query']['pages'][page_id].get('thumbnail')
-
+    
+    print(image_info['source'])
     # Extract the image information
     if image_info:
         plantInfo = PlantInfo(page_extract, image_info['source'])

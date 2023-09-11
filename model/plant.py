@@ -10,3 +10,6 @@ class PlantInfo:
 
     def setTitle(self, title):
         self.title = title
+
+    def setImage(self, image_link):
+        self.image_link = image_link
