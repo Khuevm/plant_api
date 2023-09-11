@@ -50,9 +50,12 @@ def prediction():
         code = plant_code[index]
         
         # Nếu trùng loại cây
+        match_index = None
         for result in result_array:
             if result['id']==int(code):
-            	break
+                match_index = int(code)
+        if match_index != None:
+            continue
 
         # Lấy thông tin cây
         plantName = species_name[code]
