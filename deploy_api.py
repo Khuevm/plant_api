@@ -79,12 +79,15 @@ def prediction():
 def search():
     result_array = []
     features = request.json
-    keyword = features['keyword'].lower()
+    keyword = features['keyword'].lower().strip()
     
-    for code, name in species_name.items():
-        if keyword in name.lower():
-            result = Result(int(code), name, 0, image_name[code])
-            result_array.append(result.__dict__)
+    print(keyword)
+    if keyword != "":
+        for code, name in species_name.items():
+            if keyword in name.lower():
+                result = Result(int(code), name, 0, image_name[code])
+                result_array.append(result.__dict__)
+                
     data = {
     	'data':  result_array
     }
