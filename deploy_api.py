@@ -101,7 +101,7 @@ def getInfo(code):
     plantInfo.setTitle(name)
     plantInfo.setImage(image_name[code])
     for i in info:
-        if code == i['id']:
+        if int(code) == i['id']:
             plantInfo.setCareGuide(i)
             break
     return plantInfo.__dict__
