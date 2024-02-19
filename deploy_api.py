@@ -101,7 +101,7 @@ def search():
 @app.route('/plant/info/<string:code>', methods=['POST'])
 def getInfo(code):
     name = species_name[code]
-    plantInfo: PlantInfo = getWikiInfo(name)
+    plantInfo = PlantInfo()
     plantInfo.setTitle(name)
     plantInfo.setImage(image_name[code])
     for i in info:
@@ -109,6 +109,8 @@ def getInfo(code):
             plantInfo.setCareGuide(i)
             if i.get('desc') is not None:
             	plantInfo.desc = i['desc']
+            else:
+                plantInfo.desc = getWikiInfo(name).desc
             break
     return plantInfo.__dict__
 
@@ -155,16 +157,16 @@ def createPlant():
 
     species_name[str(plantID)] = str(latin)
     with open('./data/plantnet300K_species_id_2_name.json', 'w') as species_name_file:
-        json.dump(species_name, species_name_file, indent=4)  # indent=4 để làm cho nó đẹp hơn khi đọc
+        json.dump(species_name, species_name_file, indent=4)
     
     info.append(plantInfo)
     with open('./data/plant_info.json', 'w') as info_file:
-        json.dump(info, info_file, indent=4)  # indent=4 để làm cho nó đẹp hơn khi đọc
-    
+        json.dump(info, info_file, indent=4)  
+
     image_name[str(plantID)] = image_link
     with open('./data/plant_image.json', 'w') as image_name_file:
-        json.dump(image_name, image_name_file, indent=4)  # indent=4 để làm cho nó đẹp hơn khi đọc
-    
+        json.dump(image_name, image_name_file, indent=4) 
+        
     data = {
     	'data':  str(plantID)
     }

@@ -1,7 +1,7 @@
 import json
 
 class PlantInfo:
-    def __init__(self, desc, image_link):
+    def __init__(self, desc = "", image_link = ""):
         self.desc = desc
         self.image_link = image_link
 
