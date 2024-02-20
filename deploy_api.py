@@ -66,13 +66,13 @@ def prediction():
         if conf == 0:
             break
         for pkey, pvalue in plant_code.items():
-        	if pvalue == code and pkey != index:
-        		conf += int(top_conf[pkey]*10000)
+            if pvalue == code and pkey != index:
+                conf += int(top_conf[pkey]*10000)
         result = Result(int(code), plantName, conf, image)
         result_array.append(result.__dict__)
     sorted_array = sorted(result_array, key=lambda x: x['conf'], reverse=True)
     data = {
-    	'data':  sorted_array
+        'data':  sorted_array
     }
     print(data)
     return data
@@ -108,10 +108,11 @@ def getInfo(code):
         if int(code) == i['id']:
             plantInfo.setCareGuide(i)
             if i.get('desc') is not None:
-            	plantInfo.desc = i['desc']
-            else:
-                plantInfo.desc = getWikiInfo(name).desc
+                print('desc not none')
+                plantInfo.desc = i['desc']
             break
+    if plantInfo.desc == "":
+        plantInfo.desc = getWikiInfo(name).desc
     return plantInfo.__dict__
 
 @app.route('/createPlant', methods=['POST'])
@@ -120,7 +121,7 @@ def createPlant():
 
     plantID = random.randrange(00000000,99999999)
     while str(plantID) not in species_name :
-    	plantID = random.randrange(00000000,99999999)
+        plantID = random.randrange(00000000,99999999)
     
     latin = features['latin']
     image_link = features['image_link']
