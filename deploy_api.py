@@ -108,27 +108,34 @@ def getInfo(code):
         if int(code) == i['id']:
             plantInfo.setCareGuide(i)
             if i.get('desc') is not None:
-                print('desc not none')
                 plantInfo.desc = i['desc']
             break
     if plantInfo.desc == "":
         plantInfo.desc = getWikiInfo(name).desc
     return plantInfo.__dict__
 
-@app.route('/createPlant', methods=['POST'])
+@app.route('/plant/newId', methods=['POST'])
+def createNewId():
+    plantID = random.randrange(0,99999999)
+    while str(plantID) not in species_name:
+        plantID = random.randrange(0,99999999)
+
+    data = {
+    	'id':  str(plantID)
+    }
+    return data
+
+@app.route('/plant/create', methods=['POST'])
 def createPlant():
     features = request.json
 
-    plantID = random.randrange(00000000,99999999)
-    while str(plantID) not in species_name :
-        plantID = random.randrange(00000000,99999999)
-    
+    plantID = features['id']
     latin = features['latin']
     image_link = features['image_link']
     ownerId = features['ownerId']
     
     plantInfo = {
-        "id": plantID,
+        "id": int(plantID),
 	    "latin": latin,
 	    "ownerId": ownerId
     }
@@ -169,7 +176,7 @@ def createPlant():
         json.dump(image_name, image_name_file, indent=4) 
         
     data = {
-    	'data':  str(plantID)
+    	'isSuccess':  True
     }
     return data
 
