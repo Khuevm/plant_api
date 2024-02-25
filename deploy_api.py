@@ -123,6 +123,7 @@ def createNewId():
     data = {
     	'id':  plantID
     }
+    print(plantID)
     return data
 
 @app.route('/plant/create', methods=['POST'])
@@ -174,11 +175,8 @@ def createPlant():
     image_name[str(plantID)] = image_link
     with open('./data/plant_image.json', 'w') as image_name_file:
         json.dump(image_name, image_name_file, indent=4) 
-        
-    data = {
-    	'isSuccess':  True
-    }
-    return data
+    
+    return getInfo(str(plantID))
 
 if __name__ == '__main__':
     # Load model
