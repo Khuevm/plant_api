@@ -121,7 +121,7 @@ def createNewId():
         plantID = random.randrange(0,99999999)
 
     data = {
-    	'id':  str(plantID)
+    	'id':  plantID
     }
     return data
 
@@ -135,7 +135,7 @@ def createPlant():
     ownerId = features['ownerId']
     
     plantInfo = {
-        "id": int(plantID),
+        "id": plantID,
 	    "latin": latin,
 	    "ownerId": ownerId
     }
